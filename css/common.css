@@ -1,0 +1,13 @@
+body {
+	margin: 0;
+	text-align: center;
+	font: normal 15px/18px "Trebuchet MS", "Helvetica", sans-serif;
+}
+#body {
+	width: 528px;
+	margin: 100px auto 0;
+}
+#logo {
+	display: block;
+	margin-bottom: 40px;
+}
